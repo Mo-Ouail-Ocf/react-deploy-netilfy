@@ -1,0 +1,3 @@
+-hooks called at the top level
+-call hooks inside react hooks not inside funcs
+
